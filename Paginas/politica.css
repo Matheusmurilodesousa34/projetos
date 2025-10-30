@@ -1,0 +1,65 @@
+body {
+    width: 50%;
+    overflow-y: hidden;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.329);
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.documentacao {
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+header {
+    margin: 25px;
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    border: 2px;
+    border-radius: 20px;
+}
+
+.h1 {
+    color: rgb(255, 255, 255);
+}
+
+.h2 {
+    color: purple;
+    margin-left: 10px;
+    
+}
+
+.h3 {
+    color: red;
+}
+
+.h4 {
+    color: yellow;
+}
+
+.h5 {
+    color: blue;
+}
+
+.h6 {
+    color: chocolate;
+}
+
+.mover {
+    height: 40px;
+    margin-top: 15px;
+}
+.caixa {
+    display: flex;
+}
+.p {
+    margin-top: -30px;
+}
+hr{
+    margin-top: -15px;
+    
+}
